@@ -1,0 +1,41 @@
+{
+"short_name": "examen",
+"name": "ordinario",
+"start_url":"index.html",
+"background_color": "#F8F51C",
+"display": "standalone",
+"orientation": "portrait",
+"theme_color": "#F8F51C",
+"icons": [
+
+  {
+"src": "img/iconos/icono1.png",
+"type": "image/png",
+"sizes": "16x16"
+},
+{
+"src": "img/iconos/icono2.png",
+"type": "image/png",
+"sizes": "32x32"
+},
+{
+"src": "img/iconos/icono3.png",
+"type": "image/png",
+"sizes": "48x48"
+},
+{
+"src": "img/iconos/icono4.png",
+"type": "image/png",
+"sizes": "64x64"
+},
+{
+"src": "img/iconos/icono5.png",
+"type": "image/png",
+"sizes": "128x128"
+},
+{
+"src": "img/iconos/icono6.png",
+"type": "image/png",
+"sizes": "256x256"
+}]
+}
